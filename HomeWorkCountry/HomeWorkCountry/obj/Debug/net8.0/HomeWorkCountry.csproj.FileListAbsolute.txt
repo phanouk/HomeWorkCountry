@@ -1,0 +1,64 @@
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\appsettings.json
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.exe
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.deps.json
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.runtimeconfig.json
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.dll
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.pdb
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.csproj.AssemblyReference.cache
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.AssemblyInfoInputs.cache
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.AssemblyInfo.cs
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.csproj.CoreCompileInputs.cache
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets\msbuild.HomeWorkCountry.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets\msbuild.build.HomeWorkCountry.props
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HomeWorkCountry.props
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HomeWorkCountry.props
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\scopedcss\bundle\HomeWorkCountry.styles.css
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWork.95FF8968.Up2Date
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.dll
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\refint\HomeWorkCountry.dll
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.pdb
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.genruntimeconfig.cache
+C:\Users\phanouk.sarann\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\ref\HomeWorkCountry.dll
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.AssemblyInfo.cs
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.dll
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\refint\HomeWorkCountry.dll
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.pdb
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.exe
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.deps.json
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.runtimeconfig.json
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.dll
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\HomeWorkCountry.pdb
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets\msbuild.HomeWorkCountry.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets\msbuild.build.HomeWorkCountry.props
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HomeWorkCountry.props
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HomeWorkCountry.props
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\scopedcss\bundle\HomeWorkCountry.styles.css
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWork.95FF8968.Up2Date
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\HomeWorkCountry.genruntimeconfig.cache
+C:\Users\ASUS ROG STRIX\Desktop\HomeWorkCountry\HomeWorkCountry\obj\Debug\net8.0\ref\HomeWorkCountry.dll
